@@ -1,0 +1,21 @@
+{
+    "css.completion.completePropertyWithSemicolon": false,
+    "css.completion.triggerPropertyValueCompletion": false,
+    "less.completion.completePropertyWithSemicolon": false,
+    "scss.completion.completePropertyWithSemicolon": false,
+    "reactSnippets.settings.importReactOnTop": false,
+    "github.gitAuthentication": false,
+    "html.autoClosingTags": false,
+    "html.autoCreateQuotes": false,
+    "debug.javascript.automaticallyTunnelRemoteServer": false,
+    "json.format.enable": false,
+    "jupyter.addGotoCodeLenses": false,
+    "markdown.editor.drop.enabled": false,
+    "markdown.math.enabled": false,
+    "merge-conflict.codeLens.enabled": false,
+    "javascript.autoClosingTags": false,
+    "javascript.format.insertSpaceAfterKeywordsInControlFlowStatements": false,
+    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+    "javascript.format.insertSpaceAfterCommaDelimiter": false,
+    "javascript.format.enable": false
+}
